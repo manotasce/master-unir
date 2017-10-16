@@ -28,6 +28,7 @@ def create_app(config_name):
     db.init_app(app)
     lm.init_app(app)
     moment.init_app(app)
+    mail.init_app(app)
 
     #Import Blueprints
     from .main import main as main_blueprint
