@@ -1,7 +1,7 @@
 
 
 # phpstorm project files
-tuasistentefinanciero/.idea
+aplicacion/.idea
 .idea/*
 stf/.idea/*
 
@@ -9,33 +9,33 @@ stf/.idea/*
 venv/*
 
 # netbeans project files
-tuasistentefinanciero/nbproject
+aplicacion/nbproject
 
 # zend studio for eclipse project files
-tuasistentefinanciero/.buildpath
-tuasistentefinanciero/.project
-tuasistentefinanciero/.settings
+aplicacion/.buildpath
+aplicacion/.project
+aplicacion/.settings
 
 # windows thumbnail cache
-tuasistentefinanciero/Thumbs.db
+aplicacion/Thumbs.db
 
 # composer vendor dir
-tuasistentefinanciero/vendor
+aplicacion/vendor
 
 # development support files
-tuasistentefinanciero/dev
+aplicacion/dev
 
 # composer itself is not needed
 composer.phar
 
 # phpunit itself is not needed
-phpunit.phar
+aplicacion/phpunit.phar
 # local phpunit config
-tuasistentefinanciero/phpunit.xml
+aplicacion/phpunit.xml
 
 # attachments and assets
-tuasistentefinanciero/web/attachment/*
-tuasistentefinanciero/web/assets/*
+aplicacion/web/attachment/*
+aplicacion/web/assets/*
 
 # test crawler :
-tuasistentefinanciero/views/user/crawler.php
+aplicacion/views/user/crawler.php
