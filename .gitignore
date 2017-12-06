@@ -1,3 +1,41 @@
-venv/*
+
+
+# phpstorm project files
+tuasistentefinanciero/.idea
 .idea/*
 stf/.idea/*
+
+# Python virtual environment
+venv/*
+
+# netbeans project files
+tuasistentefinanciero/nbproject
+
+# zend studio for eclipse project files
+tuasistentefinanciero/.buildpath
+tuasistentefinanciero/.project
+tuasistentefinanciero/.settings
+
+# windows thumbnail cache
+tuasistentefinanciero/Thumbs.db
+
+# composer vendor dir
+tuasistentefinanciero/vendor
+
+# development support files
+tuasistentefinanciero/dev
+
+# composer itself is not needed
+composer.phar
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+tuasistentefinanciero/phpunit.xml
+
+# attachments and assets
+tuasistentefinanciero/web/attachment/*
+tuasistentefinanciero/web/assets/*
+
+# test crawler :
+tuasistentefinanciero/views/user/crawler.php
